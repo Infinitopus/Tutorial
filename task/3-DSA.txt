@@ -1,0 +1,18 @@
+Data structures & algorithms
+
+1. Inside your project root directory, create a subfolder named DSA/.
+
+2. Inside DSA/, create a folder named screenshots/.
+
+3. In the DSA/ directory, create a file named dsa-task-3.py.
+
+4. Write a function that finds duplicate student IDs in a list
+
+5. Run the code in your IDE.
+
+6. Capture a clear screenshot showing the successful execution and code output.
+
+7. Save the image as dsa-task-3.png (or .jpg) inside the DSA/screenshots/ folder.
+
+8. Commit all newly created files and push your changes to your remote GitHub repository.
+
