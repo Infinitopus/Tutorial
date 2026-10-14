@@ -1,0 +1,28 @@
+Databases & SQL
+
+
+Set Up the Directory Structure
+
+1. Inside your project root directory, create a subfolder named SQL/.
+
+2. Inside SQL/, create a folder named screenshots/.
+
+
+Design the Schema & Query
+
+3. In the SQL/ directory, create a file named sql-task-1.sql.
+
+4. Design a simple table for intern attendance. Write a SQL query to list interns absent more than twice
+
+
+Execute & Verify
+
+5. Run your SQL script in your database client or IDE.
+
+6. Capture a clear screenshot showing the successful execution and query output.
+
+7. Save the image as sql-task-1.png (or .jpg) inside the SQL/screenshots/ folder.
+
+Submit via Git
+
+8. Commit all newly created files and push your changes to your remote GitHub repository.
