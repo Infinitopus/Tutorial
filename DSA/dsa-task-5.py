@@ -18,5 +18,4 @@ def my_big_o_of_n_n(my_value):
     for numbers in my_value:
         for ids in numbers:
             print(ids)
-print("This indicates Big O of N*N")
 my_big_o_of_n_n(my_array_3)
