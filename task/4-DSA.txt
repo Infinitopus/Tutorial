@@ -1,0 +1,15 @@
+Data structures & algorithms
+
+
+3. In the DSA/ directory, create a file named dsa-task-4.py.
+
+4. Write an algorithm that detarmins weather an array has a duplicate id or not
+
+5. Run the code in your IDE.
+
+6. Capture a clear screenshot showing the successful execution and code output.
+
+7. Save the image as dsa-task-4.png (or .jpg) inside the DSA/screenshots/ folder.
+
+8. Commit all newly created files and push your changes to your remote GitHub repository.
+
