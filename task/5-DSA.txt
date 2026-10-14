@@ -1,0 +1,13 @@
+my_array = [1, 2, 3, 4, 5]   #exited with code=0 in 0.108 seconds
+my_array_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+my_array_3 = [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]
+
+
+1. Create a function called "my_big_o_of_one" which accepts an array and prints the sum of one and one.
+Give it the header comment "BIG O OF 1 ---- O(1) - Constant Time Complexity"
+
+2. Create a function called "my_big_o_of_n" which accepts an array and prints the values within the array in a vertical list form
+Give it the header comment "BIG O OF n ---- O(n) - Linear Time Complexity"
+
+3. Create a function called "my_big_o_of_n_n" which accepts a nested list and prints the values each
+Give it the header comment "BIG O OF n ---- O(n*n) - Quadratic Time Complexity"
