@@ -13,29 +13,25 @@ print("")
 # average
 ave = (T1+T2+T3+T4+T5)/5
 
-print(f"Your average score is {ave}")
-
 # finding highest
 l = max(T1, T2, T3, T4, T5)
-print(l)
-print("")
 
 # letter assignment fo highest
 
 def give_letter_grade(l):
     if l < 40:
-        Grade_letter = "F"
+        GL = "F"
     elif l < 50:
-        Grade_letter = "D"
+        GL = "D"
     elif l < 60:
-        Grade_letter = "C"
+        GL = "C"
     elif l < 80:
-        Grade_letter = "B"
+        GL = "B"
     elif l <= 100:
-        Grade_letter = "A"
+        GL = "A"
     else:
-        Grade_letter = "Invalid"
-    print(f"{l} - {Grade_letter}")
+        GL = "Invalid"
+    print(f"The highest score is {l} with grade: {GL}")
 
 give_letter_grade(l)
 print("")
@@ -44,17 +40,17 @@ print("")
 
 def give_letter_grade2(ave):
     if ave < 40:
-        Grade_letter = "F"
+        GM = "F"
     elif ave < 50:
-        Grade_letter = "D"
+        GM = "D"
     elif ave < 60:
-        Grade_letter = "C"
-    elif ave < 80:
-        Grade_letter = "B"
+        GM = "C"
+    elif ave < 70:
+        GM = "B"
     elif ave <= 100:
-        Grade_letter = "A"
+        GM = "A"
     else:
-        Grade_letter = "Invalid"
-    print(f"{ave} - {Grade_letter}")
+        GM = "Invalid"
+    print(f"The average grade is {ave} with grade: {GM}")
 
 give_letter_grade2(ave)
