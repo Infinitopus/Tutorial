@@ -1,0 +1,18 @@
+program Python
+
+1. Inside your project root directory, create a subfolder named python/.
+
+2. Inside python/, create a folder named screenshots/.
+
+3. In the python/ directory, create a file named python-task-1.py.
+
+4. Write a short Python program that reads 5 test scores and prints the average, the highest score and a letter grade. Talk through any error you hit.
+
+5. Run the code in your IDE.
+
+6. Capture a clear screenshot showing the successful execution and code output.
+
+7. Save the image as python-task-1.png (or .jpg) inside the python/screenshots/ folder.
+
+8. Commit all newly created files and push your changes to your remote GitHub repository.
+
