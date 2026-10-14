@@ -1,0 +1,15 @@
+BASIC GIT GUIDE
+
+git clone https://YourTokenHere@github.com/YourUserNameHere/YourProjectHere.git
+
+git config --global user.email "example@gmail.com"
+
+git config --global user.name "examplename"
+
+HOW TO PULL
+git pull
+
+HOW TO PUSH
+git add .
+git commit -m"message of the push"
+git push
