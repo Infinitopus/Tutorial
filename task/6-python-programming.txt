@@ -8,7 +8,7 @@ Python Programming
 
 3. Capture a clear screenshot showing the successful execution and code output.
 
-4. Save the image as python-task-6.py.png (or .jpg) inside the python/screenshots/ folder.
+4. Save the image as python-task-6.png (or .jpg) inside the python/screenshots/ folder.
 
 5. Commit all newly created files and push your changes to your remote GitHub repository.
 
