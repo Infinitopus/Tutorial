@@ -1,14 +1,14 @@
 Python Programming
 
-1. In the python/ directory, create a file named python-task-7.py.
+1. In the python/ directory, create a file named python-task-8.py.
 
-2. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included)
+2. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 3. Run the code in your IDE.
 
 4. Capture a clear screenshot showing the successful execution and code output.
 
-5. Save the image as python-task-7.png (or .jpg) inside the python/screenshots/ folder.
+5. Save the image as python-task-8.png (or .jpg) inside the python/screenshots/ folder.
 
 6. Commit all newly created files and push your changes to your remote GitHub repository.
 
