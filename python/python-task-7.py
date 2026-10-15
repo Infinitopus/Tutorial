@@ -6,4 +6,5 @@ for i in num:
         div.add(i)
     else:
         ndiv.add(i)
-print(div)
+for j in div:
+    print(j)
