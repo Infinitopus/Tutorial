@@ -1,0 +1,14 @@
+Python Programming
+
+1. In the python/ directory, create a file named python-task-6.py.
+
+2. Write a program which will find all such numbers which are divisible by 2 between 1 to 10
+
+2. Run the code in your IDE.
+
+3. Capture a clear screenshot showing the successful execution and code output.
+
+4. Save the image as python-task-6.py.png (or .jpg) inside the python/screenshots/ folder.
+
+5. Commit all newly created files and push your changes to your remote GitHub repository.
+
